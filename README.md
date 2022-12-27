@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyrillos Phelopos Sawiris</h1>
-<h3 align="center">Senior -1 Computer and System Engineering, Ain Shams University</h3>
+<h3 align="center">Senior -2 Computer and System Engineering, Ain Shams University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyrilllosphelopos&label=Profile%20views&color=0e75b6&style=flat" alt="kyrilllosphelopos" /> </p>
 
