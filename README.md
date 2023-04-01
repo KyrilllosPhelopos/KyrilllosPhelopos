@@ -2,11 +2,16 @@
 <h3 align="center">Senior -2 Computer and System Engineering, Ain Shams University</h3>
 
 
-- 🌱 I’m currently Mastering **Embedded Systems**
+- 🌱 I possess a
+keen interest in Embedded Systems, Software Engineering, and Software Testing. My expertise
+lies in Firmware Over The Air (FOTA), which I gained through a graduation project sponsored
+by Valeo. During this project, I utilized Ethernet as our primary communication protocol and
+implemented Secureboot for enhanced security. I am eager to leverage this experience and
+continue exploring these fields in my future endeavors.
 
 - 📫 How to reach me **kyrillos.sawiris99@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/1/folders/1J5lOhB1HZsl7uthhGrwDqRntTOf9InLE](https://drive.google.com/drive/u/1/folders/1J5lOhB1HZsl7uthhGrwDqRntTOf9InLE)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LxdHs3BNt-7F_tr30RJ9Q_NaM-hk-W8S/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
