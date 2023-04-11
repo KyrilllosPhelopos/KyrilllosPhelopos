@@ -3,11 +3,7 @@
 
 
 - 🌱 I possess a
-keen interest in Embedded Systems, Software Engineering, and Software Testing. My expertise
-lies in Firmware Over The Air (FOTA), which I gained through a graduation project sponsored
-by Valeo. During this project, I utilized Ethernet as our primary communication protocol and
-implemented Secureboot for enhanced security. I am eager to leverage this experience and
-continue exploring these fields in my future endeavors.
+keen interest in Embedded Systems, Software Engineering, and Software Testing.
 
 - 📫 How to reach me **kyrillos.sawiris99@gmail.com**
 
