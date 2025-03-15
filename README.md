@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kyrillos Phelopos Sawiris</h1>
-<h3 align="center">Senior -2 Computer and System Engineering, Ain Shams University</h3>
+<h1 align="center">Hi 👋, I'm Kyrillos Sawiris</h1>
+<h3 align="center">Fresh Graduate Computer and System Engineer, Ain Shams University</h3>
 
 
 - 🌱 I possess a
-keen interest in Embedded Systems, Software Engineering, and Software Testing.
+keen interest in Embedded Systems, Java Backend, Django ,and Software Testing.
 
 - 📫 How to reach me **kyrillos.sawiris99@gmail.com**
 
