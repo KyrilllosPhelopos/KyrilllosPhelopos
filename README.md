@@ -3,11 +3,10 @@
 
 
 - 🌱 I possess a
-keen interest in Embedded Systems, Java Backend, Django ,and Software Testing.
+keen interest in Backend Development, Embedded Systems,and Software Testing.
 
 - 📫 How to reach me **kyrillos.sawiris99@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LxdHs3BNt-7F_tr30RJ9Q_NaM-hk-W8S/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
