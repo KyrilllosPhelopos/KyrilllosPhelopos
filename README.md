@@ -19,4 +19,4 @@ keen interest in Backend Development
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyrilllosphelopos&show_icons=true&locale=en" alt="kyrilllosphelopos" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyrilllosphelopos&" alt="kyrilllosphelopos" /></p>
+
